@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanket\.android\build-cache\3832425c0e26527aac4641fe5c7fa6cc21de79d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\sanket\Desktop\one piece\ToDoApp\app\build\intermediates\pre-dexed\debug\classes_b07597454253be0c57fe4e40b9357dc1281e3c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanket\.android\build-cache\2938033c4ec0381d3e9eab821948ed9357ef6fa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\sanket\Desktop\one piece\ToDoApp\app\build\intermediates\pre-dexed\debug\classes_e243c21cc1e9764a9ed193bbdd57ce5b4213afc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanket\.android\build-cache\f1736e84ce16a39b9c6d86368db6fac190b9efdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\sanket\Desktop\one piece\ToDoApp\app\build\intermediates\pre-dexed\debug\classes_fea485517c4c97bc870a6f758f372a268b5e4463.jar" />
+    </item>
+
+</items>
